@@ -1,8 +1,7 @@
 {
-  "name": "experimentr",
+  "name": "below-survey",
   "description": "captures input for data visualization studies",
   "version": "0.0.1",
-  "private": true,
   "dependencies": {
     "csv": "0.2.x",
     "d3": "^3.5.16",
@@ -14,6 +13,6 @@
   },
   "scripts": {
     "start": "node app.js",
-    "build": "redis-server redis.conf"
+    "build": "redis.conf"
   }
 }
