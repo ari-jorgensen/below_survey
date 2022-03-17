@@ -12,7 +12,6 @@
     "body-parser": "^1.19.2"
   },
   "scripts": {
-    "start": "node app.js",
-    "build": "redis.conf"
+    "start": "node app.js"
   }
 }
